@@ -1,0 +1,4 @@
+{
+    "python.analysis.gotoDefinitionInStringLiteral": true,
+    "python.analysis.typeEvaluation.deprecateTypingAliases": false
+}
